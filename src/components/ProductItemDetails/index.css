@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.error-image {
+  height: 400px;
+  width: 400px;
+}
+.product-image {
+  width: 50%;
+}
+.product-details-container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.details-container {
+  width: 50%;
+}
+.rating-container {
+  display: flex;
+  flex-direction: row;
+}
+.star {
+  height: 30px;
+  width: 30px;
+}
+.description {
+  line-height: ;
+}
+.line {
+  border: 1px solid black;
+}
